@@ -1,0 +1,87 @@
+[
+  {
+    "username": "student1",
+    "password": "student123",
+    "role": "student"
+  },
+  {
+    "username": "teacher1",
+    "password": "teacher123",
+    "role": "teacher"
+  },
+  {
+    "username": "parent1",
+    "password": "parent123",
+    "role": "parent"
+  },
+  {
+    "username": "ridmi",
+    "password": "ridmi123",
+    "role": "student"
+  },
+  {
+    "username": "oshadhi",
+    "password": "oshadhi123",
+    "role": "student"
+  },
+  {
+    "username": "dithara",
+    "password": "dithara123",
+    "role": "student"
+  },
+  {
+    "username": "buthmira",
+    "password": "buthmira123",
+    "role": "student"
+  },
+  {
+    "username": "abhishek",
+    "password": "abhishek123",
+    "role": "student"
+  },
+  {
+    "username": "anuradha",
+    "password": "anuradha123",
+    "role": "teacher"
+  },
+  {
+    "username": "idunil",
+    "password": "idunil123",
+    "role": "teacher"
+  },
+  {
+    "username": "ruwan",
+    "password": "ruwan123",
+    "role": "teacher"
+  },
+  {
+    "username": "pasindu",
+    "password": "pasindu123",
+    "role": "teacher"
+  },
+  {
+    "username": "malika",
+    "password": "malika123",
+    "role": "teacher"
+  },
+  {
+    "username": "tharanga",
+    "password": "tharanga123",
+    "role": "parent"
+  },
+  {
+    "username": "kamal",
+    "password": "kamal123",
+    "role": "parent"
+  },
+  {
+    "username": "nayana",
+    "password": "nayana123",
+    "role": "parent"
+  },
+  {
+    "username": "kumari",
+    "password": "kumari123",
+    "role": "parent"
+  }
+]
